@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ProfessorDenisIglea
 - 👀 I’m interested in  HTML, CSS, JS, NODE.JS, NPN, LARAVEL.
 - 🌱 I’m currently learning  PYTHON.
-- 💞️ I’m looking to collaborate on no desenvolvimento edicacional de meus estudantes
+- 💞️ I’m looking to collaborate on no desenvolvimento edicacional de meus estudantes.   
 - 📫 How to reach me : denis.moraes@escola.pr.gov.br
 
 <!---
