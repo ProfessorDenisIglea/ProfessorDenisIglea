@@ -1,7 +1,8 @@
 # Sobre a pessoa mais linda do mundo!
 ## Informaçõões Básicas
 - 👨‍🏫Professor de Hístória 🕰️e Pensamento Computacional 💻
-- 
+?
+            <i class="devicon-- colori"></i>
 - 👀 I’m interested in  HTML, CSS, JS, NODE.JS, NPN, LARAVEL.
 - 🌱 I’m currently learning  PYTHON.
 - 💞️ I’m looking to collaborate on no desenvolvimento edicacional de meus estudantes.   
