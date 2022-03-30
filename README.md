@@ -1,4 +1,5 @@
-#Sobre Mim#
+#Sobre Mim
+## info bas
 - 👨‍🏫Professor de Hístória 🕰️e Pensamento Computacional 💻
 - 
 - 👀 I’m interested in  HTML, CSS, JS, NODE.JS, NPN, LARAVEL.
