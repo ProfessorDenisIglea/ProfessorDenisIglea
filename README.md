@@ -1,4 +1,6 @@
 <h1align="center">Sobre  Mim</h1> 
+- 👨‍🏫Professor de Hístória 🕰️e Pensamento Computacional 💻
+- 
 - 👀 I’m interested in  HTML, CSS, JS, NODE.JS, NPN, LARAVEL.
 - 🌱 I’m currently learning  PYTHON.
 - 💞️ I’m looking to collaborate on no desenvolvimento edicacional de meus estudantes.   
