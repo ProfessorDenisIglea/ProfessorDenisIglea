@@ -1,5 +1,5 @@
-#Sobre Mim
-## info bas
+# Sobre a pessoa mais linda do mundo!
+## Informaçõões Básicas
 - 👨‍🏫Professor de Hístória 🕰️e Pensamento Computacional 💻
 - 
 - 👀 I’m interested in  HTML, CSS, JS, NODE.JS, NPN, LARAVEL.
