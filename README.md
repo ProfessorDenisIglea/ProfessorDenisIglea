@@ -2,4 +2,4 @@
 
 ## Bem Vindo ao meu perfil do GitHub ✍️         
             
-- 👨‍🏫Professor de História ⏳ e Pensamento Computacional 💻 🖱️ 🎧    
+- 👨‍🏫Professor de História ⏳ e Pensamento Computacional 💻 🖱️ 🎧
