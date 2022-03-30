@@ -1,10 +1,9 @@
 #  Olá, me chamo Denis Rezende de Moraes
 
-## Bem Vindo ao meu perfil do GitHub ✍️
-
-- 👨‍🏫Professor de Hístória 🕰️e Pensamento Computacional 💻
-?
-            <i class="devicon-- colori"></i>
+## Bem Vindo ao meu perfil do GitHub ✍️         
+            
+- 👨‍🏫Professor de História ⏳ e Pensamento Computacional 💻 🖱️ 🎧                               
+<i class="devicon-- colori"></i>
 - 👀 I’m interested in  HTML, CSS, JS, NODE.JS, NPN, LARAVEL.
 - 🌱 I’m currently learning  PYTHON.
 - 💞️ I’m looking to collaborate on no desenvolvimento edicacional de meus estudantes.   
