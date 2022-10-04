@@ -1,4 +1,4 @@
-#  Olá, me chamo Denis Rezende de Moraes ☕
+#  Olá, sou o professor Denis Rezende de Moraes ☕
 
 ## Bem Vindo ao meu perfil do GitHub ✍️         
             
