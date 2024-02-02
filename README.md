@@ -2,7 +2,9 @@
 
 ## Bem Vindo ao meu perfil do GitHub ✍️         
             
-- 👨‍🏫Professor de História ⏳ e Pensamento Computacional 💻 🖱️ 🎧     
+- 👨‍🏫Professor de História ⏳;
+-  Análise de Sistemas e 
+-  Pensamento Computacional 💻 🖱️ 🎧     
 
 ### Ferramentas e Tecnologias
 
